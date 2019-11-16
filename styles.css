@@ -73,9 +73,14 @@ box-sizing: border-box;
 }
 .content{
   display: flex;
+  flex-direction: row;
   justify-content: center;
-  align-items: center;
-  margin-top: 100px;
+  text-align: center;
+  margin-top: 60px;
+}
+.snoopy{
+  width: 170px;
+  height: 200px;
 }
 a:link{
  color: black;
