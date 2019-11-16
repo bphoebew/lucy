@@ -178,11 +178,12 @@ h2{
   border-color: #5588C7;
 }
 .backPic{
-  width: 330px;
-  height: 450px;
+  width: 280px;
+  height: 300px;
 }
 .mission{
-  margin-left: 50px;
+  margin-left: 200px;
+  font-size: 47px;
 }
 .missionAll{
   display: flex;
